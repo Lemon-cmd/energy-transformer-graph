@@ -8,7 +8,7 @@ pip install -r requirements.txt
 pip install --upgrade "jax[cuda]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 ```
 Note, it is important to read the official [Jax](https://github.com/google/jax) installation guide to properly enable GPU and for further details.
-Additionally, see [link](https://storage.googleapis.com/jax-releases/jax_cuda_releases.html) for installing specific Jax-cuda version.
+Additionally, see [Jax Versions](https://storage.googleapis.com/jax-releases/jax_cuda_releases.html) for installing specific Jax-cuda version.
 
 ## Test the install by starting python and running the following code to check whether if GPU is enabled for Jax:
 ```
@@ -35,10 +35,13 @@ Since there are a number of provided pretrained models, please ensure that such 
 ```
 
 ## Pretrained Models
-Some pretrained models are provided in the ***saved\_models*** folder. To download the rest of the pretrained models, see [link](https://drive.google.com/drive/folders/1LGydNfJfnlVajFV_KCJ9mRsnFCUKh9zs?usp=share_link). 
+Some pretrained models are provided in the ***saved\_models*** folder. To download the rest of the pretrained models, see [Google Drive Link](https://drive.google.com/drive/folders/1LGydNfJfnlVajFV_KCJ9mRsnFCUKh9zs?usp=share_link). 
+
+## Related ET Codes 
+See [ET for Graph Anamoly Detection](https://github.com/zhuergou/Energy-Transformer-for-Graph-Anomaly-Detection/) and [ET for Image](https://github.com/bhoov/energy-transformer-jax)
 
 ## Citation
-if you find this code useful, please cite:
+if you find the code or the work useful, please cite:
 
 ```
 @article{hoover2023energy,
