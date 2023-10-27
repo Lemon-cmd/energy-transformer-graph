@@ -1,0 +1,12 @@
+matplotlib==3.8.0
+numpy==1.25.2
+einops==0.6.1
+chex==0.1.82
+jax==0.4.7
+flax==0.7.4
+optax==0.1.7
+tensorboard==2.14.0
+torch
+torch_geometric
+tqdm
+scikit-learn
