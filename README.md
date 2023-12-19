@@ -2,6 +2,8 @@
 
 > A Transformer block that is an associative memory. A continuous dynamical system with a tractable energy that is guaranteed to converge to a fixed point. See [our paper](https://arxiv.org/abs/2302.07253)
 
+<img src="ET_visual.png" alt="drawing" height="450" width="2500"/>
+
 # Installation
 ```
 pip install -r requirements.txt
