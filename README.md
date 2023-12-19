@@ -1,6 +1,6 @@
 # Energy Transformer For Graph Classification
 
-> A Transformer block that is an associative memory. A continuous dynamical system with a tractable energy that is guaranteed to converge to a fixed point. See [our paper](https://openreview.net/forum?id=4nrZXPFN1c4)
+> A Transformer block that is an associative memory. A continuous dynamical system with a tractable energy that is guaranteed to converge to a fixed point. See [our paper](https://arxiv.org/abs/2302.07253)
 
 # Installation
 ```
