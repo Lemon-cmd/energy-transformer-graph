@@ -1,6 +1,6 @@
 # Energy Transformer For Graph Classification
 
-> A Transformer block that is an associative memory. A continuous dynamical system with a tractable energy that is guaranteed to converge to a fixed point. See [our paper](https://arxiv.org/abs/2302.07253)
+> A Transformer block that is an associative memory. A continuous dynamical system with a tractable energy that is guaranteed to converge to a fixed point. See [our paper](https://arxiv.org/abs/2302.07253) and for other official codes, see [ET for Graph Anamoly Detection](https://github.com/zhuergou/Energy-Transformer-for-Graph-Anomaly-Detection/) and [ET for Image](https://github.com/bhoov/energy-transformer-jax).
 
 <img src="ET_visual.png" alt="drawing" height="450" width="2500"/>
 
@@ -38,9 +38,6 @@ Since there are a number of provided pretrained models, please ensure that such 
 
 ## Pretrained Models
 Some pretrained models are provided in the ***saved\_models*** folder. To download the rest of the pretrained models, see [Google Drive Link](https://drive.google.com/drive/folders/1LGydNfJfnlVajFV_KCJ9mRsnFCUKh9zs?usp=share_link). 
-
-## Related ET Codes 
-See [ET for Graph Anamoly Detection](https://github.com/zhuergou/Energy-Transformer-for-Graph-Anomaly-Detection/) and [ET for Image](https://github.com/bhoov/energy-transformer-jax)
 
 ## Citation
 if you find the code or the work useful, please cite:
