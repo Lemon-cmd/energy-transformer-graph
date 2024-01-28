@@ -12,6 +12,10 @@ pip install --upgrade "jax[cuda]" -f https://storage.googleapis.com/jax-releases
 Note, it is important to read the official [Jax](https://github.com/google/jax) installation guide to properly enable GPU and for further details.
 Additionally, see [Jax Versions](https://storage.googleapis.com/jax-releases/jax_cuda_releases.html) for installing specific Jax-cuda version.
 
+<p float="center">
+<img src="./ET-details.jpeg" alt="drawing" height="425" width="2200"/>
+</p>
+
 ## Test the install by starting python and running the following code to check whether if GPU is enabled for Jax:
 ```
 import jax
